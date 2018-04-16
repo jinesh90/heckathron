@@ -1,0 +1,31 @@
+{
+  "providerName": "209444.pending.en",
+  "language": "en",
+  "lastUpdated": "2018-02-28T02:13:30.755Z",
+  "shortFormVideos": [
+    {
+      "id": "A12345577",
+      "title": "HorseMan",
+      "content": {
+        "dateAdded": "2017-05-02T14:41:39.000Z",
+        "videos": [
+          {
+            "url": "https://s3.amazonaws.com/serverless-video-transcoded-jinesh/Cartoon-1-1080p.mp4",
+            "videoType": "MP4",
+            "quality": "HD"
+          }
+        ],
+        "duration": 30,
+        "language": "eng"
+      },
+      "thumbnail": "https://s3.amazonaws.com/serverless-video-transcoded-jinesh/mustang-horse-1.jpg",
+      "shortDescription": "Horse man with funny ride",
+      "tags": [
+        "Human",
+        "Horse",
+        "Horseride"
+      ],
+      "releaseDate": "2017-05-02"
+    }
+  ]
+}
